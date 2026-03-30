@@ -4,6 +4,12 @@ import tensorflow as tf
 from PIL import Image
 import json
 import cv2
+import sys
+
+if sys.version_info >= (3, 12):
+    import streamlit as st
+    st.error("⚠️ This app requires Python ≤ 3.11 for TensorFlow.")
+    st.stop()
 
 # -------------------------------
 # PAGE CONFIG
