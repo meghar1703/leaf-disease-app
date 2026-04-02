@@ -1,7 +1,7 @@
-# 🌿 AI Plant Disease Detection System
+# AI Plant Disease Detection System
 
 ## Live Demo
-https://huggingface.co/spaces/YOUR-USERNAME/YOUR-APP
+https://huggingface.co/spaces/megha1703/leaf-disease-detection-app
 
 ## Overview
 
