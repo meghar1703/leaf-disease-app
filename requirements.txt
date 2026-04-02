@@ -1,7 +1,0 @@
-streamlit
-keras==2.13.1
-tensorflow-cpu==2.13.0; python_version<"3.12"
-opencv-python-headless
-pillow
-numpy
-h5py
